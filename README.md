@@ -119,6 +119,10 @@ The most important features influencing customer churn include:
 
 The trained model was deployed using **Streamlit**, allowing users to enter customer details and predict churn in real time.
 
+## Deployment
+This application is deployed on Streamlit Community Cloud.
+
+🌐 Live Demo: https://customer-churn-pmk.streamlit.app
 ---
 
 ## 📁 Project Structure
@@ -143,7 +147,7 @@ Customer_Churn_Prediction/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Customer_Churn_Prediction.git
+git clone https://github.com/palsamanojkumar-07/Customer_Churn_Prediction.git
 ```
 
 ### Install dependencies
